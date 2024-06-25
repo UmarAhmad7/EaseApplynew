@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EaseApplynew/static/css/main.a609b892.css",
+    "main.js": "/EaseApplynew/static/js/main.c827b914.js",
+    "index.html": "/EaseApplynew/index.html",
+    "main.a609b892.css.map": "/EaseApplynew/static/css/main.a609b892.css.map",
+    "main.c827b914.js.map": "/EaseApplynew/static/js/main.c827b914.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a609b892.css",
+    "static/js/main.c827b914.js"
+  ]
+}
